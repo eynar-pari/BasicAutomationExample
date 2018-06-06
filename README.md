@@ -1,0 +1,2 @@
+# BasicAutomationExample
+basic example
